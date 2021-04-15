@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cMetadataBlueprint>
+	<Element>
+		<Value>
+			<Attribute name="MetaData">
+				<__Indexed__cMetadataBlueprint-cMetaDataEntry>
+					<Element>
+						<Value>
+							<cMetadataBlueprint-cBlueprintGroupMetaDataEntry>
+								<Element>
+									<Value>
+										<Attribute name="Name">
+											<cDeltaString>
+												<Element>
+													<Value>CP 9600</Value>
+												</Element>
+											</cDeltaString>
+										</Attribute>
+										<Attribute name="BrowseFiltering">
+											<cBrowseFiltering>
+												<Element>
+													<Value>
+														<Attribute name="Africa">
+															<eBoolean>
+																<Element>
+																	<Value>eFalse</Value>
+																</Element>
+															</eBoolean>
+														</Attribute>
+														<Attribute name="Asia">
+															<eBoolean>
+																<Element>
+																	<Value>eFalse</Value>
+																</Element>
+															</eBoolean>
+														</Attribute>
+														<Attribute name="Australia">
+															<eBoolean>
+																<Element>
+																	<Value>eFalse</Value>
+																</Element>
+															</eBoolean>
+														</Attribute>
+														<Attribute name="Europe">
+															<eBoolean>
+																<Element>
+																	<Value>eTrue</Value>
+																</Element>
+															</eBoolean>
+														</Attribute>
+														<Attribute name="NorthAmerica">
+															<eBoolean>
+																<Element>
+																	<Value>eFalse</Value>
+																</Element>
+															</eBoolean>
+														</Attribute>
+														<Attribute name="SouthAmerica">
+															<eBoolean>
+																<Element>
+																	<Value>eFalse</Value>
+																</Element>
+															</eBoolean>
+														</Attribute>
+														<Attribute name="Modern">
+															<eBoolean>
+																<Element>
+																	<Value>eFalse</Value>
+																</Element>
+															</eBoolean>
+														</Attribute>
+														<Attribute name="Historic">
+															<eBoolean>
+																<Element>
+																	<Value>eFalse</Value>
+																</Element>
+															</eBoolean>
+														</Attribute>
+														<Attribute name="Heritage">
+															<eBoolean>
+																<Element>
+																	<Value>eTrue</Value>
+																</Element>
+															</eBoolean>
+														</Attribute>
+														<Attribute name="Mountains">
+															<eBoolean>
+																<Element>
+																	<Value>eFalse</Value>
+																</Element>
+															</eBoolean>
+														</Attribute>
+														<Attribute name="Plains">
+															<eBoolean>
+																<Element>
+																	<Value>eFalse</Value>
+																</Element>
+															</eBoolean>
+														</Attribute>
+														<Attribute name="Countryside">
+															<eBoolean>
+																<Element>
+																	<Value>eTrue</Value>
+																</Element>
+															</eBoolean>
+														</Attribute>
+														<Attribute name="Urban">
+															<eBoolean>
+																<Element>
+																	<Value>eFalse</Value>
+																</Element>
+															</eBoolean>
+														</Attribute>
+														<Attribute name="CustomTag">
+															<__Indexed__cBrowseFiltering-cCustomTag>
+																<Element>
+																	<Value />
+																</Element>
+															</__Indexed__cBrowseFiltering-cCustomTag>
+														</Attribute>
+														<Attribute name="CountryCode">
+															<__Indexed__BrowseFiltering-eCountry>
+																<Element>
+																	<Value />
+																</Element>
+															</__Indexed__BrowseFiltering-eCountry>
+														</Attribute>
+													</Value>
+												</Element>
+											</cBrowseFiltering>
+										</Attribute>
+										<Attribute name="ThumbnailTexture">
+											<cMetadataBlueprint-cMetaDataThumbnailTexture>
+												<Element>
+													<Value>
+														<Attribute name="ThumbnailTextureID">
+															<cDeltaString>
+																<Element>
+																	<Value />
+																</Element>
+															</cDeltaString>
+														</Attribute>
+														<Attribute name="CoordsLeft">
+															<sInt32>
+																<Element>
+																	<Value>0</Value>
+																</Element>
+															</sInt32>
+														</Attribute>
+														<Attribute name="CoordsTop">
+															<sInt32>
+																<Element>
+																	<Value>0</Value>
+																</Element>
+															</sInt32>
+														</Attribute>
+														<Attribute name="CoordsWidth">
+															<sInt32>
+																<Element>
+																	<Value>-1</Value>
+																</Element>
+															</sInt32>
+														</Attribute>
+														<Attribute name="CoordsHeight">
+															<sInt32>
+																<Element>
+																	<Value>-1</Value>
+																</Element>
+															</sInt32>
+														</Attribute>
+													</Value>
+												</Element>
+											</cMetadataBlueprint-cMetaDataThumbnailTexture>
+										</Attribute>
+										<Attribute name="GroupDisplayName">
+											<Localisation-cUserLocalisedString>
+												<Element>
+													<Value>
+														<Attribute name="English">
+															<cDeltaString>
+																<Element>
+																	<Value>CP 9600</Value>
+																</Element>
+															</cDeltaString>
+														</Attribute>
+														<Attribute name="French">
+															<cDeltaString>
+																<Element>
+																	<Value>CP 9600</Value>
+																</Element>
+															</cDeltaString>
+														</Attribute>
+														<Attribute name="Italian">
+															<cDeltaString>
+																<Element>
+																	<Value>CP 9600</Value>
+																</Element>
+															</cDeltaString>
+														</Attribute>
+														<Attribute name="German">
+															<cDeltaString>
+																<Element>
+																	<Value>CP 9600</Value>
+																</Element>
+															</cDeltaString>
+														</Attribute>
+														<Attribute name="Spanish">
+															<cDeltaString>
+																<Element>
+																	<Value>CP 9600</Value>
+																</Element>
+															</cDeltaString>
+														</Attribute>
+														<Attribute name="Dutch">
+															<cDeltaString>
+																<Element>
+																	<Value />
+																</Element>
+															</cDeltaString>
+														</Attribute>
+														<Attribute name="Polish">
+															<cDeltaString>
+																<Element>
+																	<Value />
+																</Element>
+															</cDeltaString>
+														</Attribute>
+														<Attribute name="Russian">
+															<cDeltaString>
+																<Element>
+																	<Value />
+																</Element>
+															</cDeltaString>
+														</Attribute>
+														<Attribute name="Other">
+															<__Indexed__Localisation-cUserLocalisedString-cOtherStringLangPair>
+																<Element>
+																	<Value />
+																</Element>
+															</__Indexed__Localisation-cUserLocalisedString-cOtherStringLangPair>
+														</Attribute>
+														<Attribute name="Key">
+															<cDeltaString>
+																<Element>
+																	<Value />
+																</Element>
+															</cDeltaString>
+														</Attribute>
+													</Value>
+												</Element>
+											</Localisation-cUserLocalisedString>
+										</Attribute>
+										<Attribute name="BlueprintID">
+											<__Indexed__iBlueprintLibrary-cAbsoluteBlueprintID>
+												<Element>
+													<Value>
+														<iBlueprintLibrary-cAbsoluteBlueprintID>
+															<Element>
+																<Value>
+																	<Attribute name="BlueprintSetID">
+																		<iBlueprintLibrary-cBlueprintSetID>
+																			<Element>
+																				<Value>
+																					<Attribute name="Provider">
+																						<cDeltaString>
+																							<Element>
+																								<Value>CPV</Value>
+																							</Element>
+																						</cDeltaString>
+																					</Attribute>
+																					<Attribute name="Product">
+																						<cDeltaString>
+																							<Element>
+																								<Value>CP 9600</Value>
+																							</Element>
+																						</cDeltaString>
+																					</Attribute>
+																				</Value>
+																			</Element>
+																		</iBlueprintLibrary-cBlueprintSetID>
+																	</Attribute>
+																	<Attribute name="BlueprintID">
+																		<cDeltaString>
+																			<Element>
+																				<Value>Model\CP 9600 M.xml</Value>
+																			</Element>
+																		</cDeltaString>
+																	</Attribute>
+																</Value>
+															</Element>
+														</iBlueprintLibrary-cAbsoluteBlueprintID>
+													</Value>
+												</Element>
+											</__Indexed__iBlueprintLibrary-cAbsoluteBlueprintID>
+										</Attribute>
+									</Value>
+								</Element>
+							</cMetadataBlueprint-cBlueprintGroupMetaDataEntry>
+						</Value>
+					</Element>
+				</__Indexed__cMetadataBlueprint-cMetaDataEntry>
+			</Attribute>
+		</Value>
+	</Element>
+</cMetadataBlueprint>
