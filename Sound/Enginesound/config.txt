@@ -1,0 +1,13 @@
+﻿kuid							<kuid:263036:9638>
+trainz-build						2.4
+category-class						"ZS"
+category-region-0					"PT"
+category-era-0						"2000s"
+asset-filename						"CP 9630 Engine Sound"
+username						"CP 9630 Engine Sound"
+author							"Tiago Miranda"
+organisation						"Comboios.org"
+contact-email						"tiago_miranda94@hotmail.com"
+contact-website						"Comboios.org"
+license							"Beta Dumpware - É sempre a atirar, não editar!"
+kind							"enginesound"
